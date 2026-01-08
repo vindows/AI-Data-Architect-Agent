@@ -1,10 +1,10 @@
-# dbt-compatible---tellius-ai-data-architect
+# Tellius AI Architect Agent
 
 DBT-compatible data architecture project for Tellius AI.
 
 ## Getting Started
 
-This repository contains the data architecture and transformation logic for the Tellius AI platform.
+This is a AI Architect that can generate an entire data model using a replit style builder interface and outputs a yaml file with a visualizer
 
 ## Structure
 
